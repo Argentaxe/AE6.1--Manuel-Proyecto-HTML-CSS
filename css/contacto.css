@@ -1,0 +1,80 @@
+/*Manuel Silvano Leon Espinoza */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.descripcion{
+    position: relative;
+    float: left;
+    width: 45%;
+    margin-left: 5%;
+}
+.titulo h2{
+    text-align: center;
+    border: solid black;
+    padding: 2%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h3 + p{
+    font-weight: bolder;
+}
+.logo{
+    width: 160px;
+    position: absolute;
+    top: 100%;
+    left: 30%;
+}
+.telegram{
+width: 30px;
+position: absolute;
+top: 130%;
+left: 25%;
+}
+.whatsapp{
+    width: 30px;
+    position: absolute;
+    top: 110%;
+    left: 28%;
+}
+.twitter{
+    width: 30px;
+    position: absolute;
+    top: 90%;
+    left: 37.5%;
+}
+.instagram{
+    width: 25px;
+    position: absolute;
+    top: 110%;
+    left: 48%;
+}
+.facebook{
+    width: 30px;
+    position: absolute;
+    top: 130%;
+    left: 50%;
+}
+
+form input {
+    width: 40%;
+    padding: 1%;
+    margin-top: 1%;
+}
+
+.check{
+    margin-left: 60%;
+}
+
+.boton input{
+    float: right;
+    background-color: black;
+    font-size: 2rem;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    padding: 30px;
+    border-radius: 18px;
+}

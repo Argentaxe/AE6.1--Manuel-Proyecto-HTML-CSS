@@ -1,0 +1,68 @@
+/*Manuel Silvano Leon Espinoza */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+    border: solid black;
+    padding: 2%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.lorem a{
+    background-color: grey;
+    font-size: 2rem;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    padding: 1.5px;
+    border-radius: 20px;
+}
+.lorem2 a{
+    background-color: grey;
+    font-size: 2rem;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    padding: 1.5px;
+    border-radius: 20px;
+}
+.lorem{
+    font-size: 1rem;
+    padding: 5px;
+    margin: 10px;
+    width: 50%;
+    height: 30%;
+    margin: 5px;
+    float: right;
+}
+.lorem2{
+    font-size: 1rem;
+    padding: 5px;
+    margin: 10px;
+    float: left;
+    width: 50%;
+    height: 30%;
+    margin: 5px;
+}
+.falso{
+    width: 40%;
+    height: 40%;
+    float: left;
+    margin-left: 2%;
+}
+.verd{
+    width: 40%;
+    height: 40%;
+    float: right;
+    margin-right: 2%;
+}
+.lorem2 > h3{
+    font-size: 2rem;
+}
+.lorem > h3{
+    font-size: 2rem;
+}

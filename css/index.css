@@ -1,0 +1,52 @@
+/*Manuel Silvano Leon Espinoza */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.lor{
+    background-image: url(../Imagenes/Carroussel/Carroussel-1.webp);
+    background-size: 100% 100%;
+    background-position:  100% 0;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.lor > h2{
+    font-size: 4rem;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+
+.lorem{
+    font-size: 1rem;
+    padding: 5px;
+    margin: 10px;
+    float: left;
+    width: 50%;
+    height: 30%;
+    margin: 5px;
+}
+.lorem a{
+    background-color: black;
+    font-size: 2rem;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    padding: 1.5px;
+    border-radius: 20px;
+}
+.zapaimg{
+    width: 50%;
+    height: 30%;
+    margin: 5px;
+    float: right;
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    float: right;
+}

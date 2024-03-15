@@ -1,0 +1,44 @@
+/*Manuel Silvano Leon Espinoza */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cabecera{
+    background-color: black;
+    color: white;
+    display: flow-root;
+}
+.log{
+    margin-left: 5%;
+    float: left;
+    font-size: 2rem;
+}
+.log span{
+    color: chocolate;
+}
+
+.log img{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+#menu{
+    list-style: none;
+    font-size: none;
+
+}
+
+.left{
+    float: right;
+    padding: 2%;
+}
+
+.left a{
+    text-decoration: none;
+    outline: none;
+    color: white;
+    font-size: 1.5rem;
+}

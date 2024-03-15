@@ -1,0 +1,35 @@
+/*Manuel Silvano Leon Espinoza */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    text-align: center;
+    border: solid black;
+    padding: 2%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+img{
+    width: 40%;
+    height: 40%;
+    float: left;
+}
+
+h1 img{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+.loreno > a > img{
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+    float: left;
+}
+p > strong{
+    padding: 2%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
